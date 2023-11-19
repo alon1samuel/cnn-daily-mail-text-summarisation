@@ -1,0 +1,7 @@
+transformers[torch]
+datasets
+evaluate
+polars
+scikit-learn
+black
+py7zr
